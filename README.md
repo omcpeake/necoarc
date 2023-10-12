@@ -5,10 +5,11 @@ tasks
 - [x] change camera to top down and disable mouse look
 - [x] import player model and animations
 - [x] add dash to movement
-- [ ] add attack
+- [x] add attack
 - [x] set player model/animations to custom ones
+- [x] rotate player to face attack
 - [ ] create game manager
-- [ ] create unit classes + health/stats
+- [x] player and enemy health
 - [ ] source/create enemy model/animations
 - [ ] enemy attacks
 - [ ] enemy ai
