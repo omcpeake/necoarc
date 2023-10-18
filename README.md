@@ -10,8 +10,14 @@ tasks
 - [x] rotate player to face attack
 - [ ] create game manager
 - [x] player and enemy health
-- [ ] source/create enemy model/animations
+- [x] iframes
+- [x] source/create enemy model/animations
 - [ ] enemy attacks
+     - [x] swipe
+     - [x] dropkick
+     - [ ] laser
+     - [ ] jump attack
+     - [ ] others?
 - [ ] enemy ai
 - [ ] create battle arena/landscape
 - [ ] create hud elements
