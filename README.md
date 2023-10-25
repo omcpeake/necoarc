@@ -12,13 +12,13 @@ tasks
 - [x] player and enemy health
 - [x] iframes
 - [x] source/create enemy model/animations
-- [ ] enemy attacks
+- [x] enemy attacks
      - [x] swipe
      - [x] dropkick
-     - [ ] laser
+     - [x] laser
      - [ ] jump attack
-     - [ ] others?
-- [ ] enemy ai
+     - [x] Hurricane Kick
+- [x] enemy ai
 - [ ] create battle arena/landscape
 - [ ] create hud elements
 - [ ] implement hud
@@ -33,3 +33,6 @@ audio
  - dash
  - music
  - ui
+
+absolute mvp
+https://www.youtube.com/@AliElZoheiry
